@@ -61,4 +61,4 @@ submit.addEventListener('click', (e) => {
         $('#success').hide();
         $('#failure').show();
     }
-})
+});
